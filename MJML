@@ -1,0 +1,180 @@
+<mjml>
+
+  <mj-head>
+
+     <mj-title>Email 1</mj-title>
+     <mj-preview>Email1 Ageeva Viktoria</mj-preview>
+  
+  </mj-head>
+
+
+   <mj-body width="640px" background-color="#F9F9F9">
+    
+    <mj-section padding="0">
+			<mj-column>
+				<mj-image padding="0" width="640px" align="center"  src="https://i.postimg.cc/Z51yPKMj/2.png" />
+			</mj-column>
+		</mj-section>
+    
+    
+     <mj-section padding="0">
+			<mj-column>
+        <mj-text  
+                 padding-top="40px"
+                 padding-bottom="0"
+                 color="#141414" 
+                 font-family="Roboto" 
+                 line-height="47px" 
+                 font-size="32px" 
+                 font-weight="600" 
+                 align="center">
+						15% OFF
+					</mj-text>
+        
+        
+        
+        
+				<mj-text  
+                 padding-top="10px"
+                 padding-bottom="0"
+                 color="#141414" 
+                 font-family="Roboto" 
+                 line-height="38px" 
+                 font-size="32px" 
+                 font-weight="600" 
+                 align="center">
+						Take a short survey
+					</mj-text>
+               
+        
+        
+        <mj-text css-class="title" 
+                 padding="40px 40px"
+                 padding-top="34px"
+                 padding-bottom="0"
+                 color="#141414" 
+                 font-family="Roboto" 
+                 line-height="23px" 
+                 font-size="18px" 
+                 font-weight="regular" 
+                 align="left">
+           Hello!
+				</mj-text>
+        
+  /текст
+        	<mj-text css-class="title" 
+                 padding="40px 40px"
+                 padding-top="24px"
+                 padding-bottom="0"
+                 color="#141414" 
+                 font-family="Roboto" 
+                 line-height="23px" 
+                 font-size="18px" 
+                 font-weight="regular" 
+                 align="left">
+           We are conducting a small survey among our customers and want to know what you plan to read in the summer and what books you prefer to take with you on vacation.
+				</mj-text>
+        
+        
+      	<mj-text  
+                 padding="40px 40px"
+                 padding-top="20px"
+                 padding-bottom="0"
+                 color="#141414" 
+                 font-family="Roboto" 
+                 line-height="23px" 
+                 font-size="18px" 
+                 font-weight="regular" 
+                 align="left">
+          
+Filling out the questionnaire will take you only 5 minutes. We will publish the results on our website, and send you a wonderful summer selection of books!
+					</mj-text>
+     
+        
+ </mj-section>
+    
+       
+       <mj-section 
+                padding-bottom="78px">
+      <mj-column >
+        <mj-button 
+                   padding-top="56px"
+                   background-color="#FF6463" 
+                   border-radius="40px"
+                   font-family="Roboto"
+                   font-size="20px"
+  
+                   font-weight="regular"
+                   href="https://mjml.io/"
+                   width="210px"
+                   height="52px"
+                   
+                   
+                   > 
+                   Form</mj-button>
+       
+      </mj-column>
+    </mj-section>       
+  
+       
+       <mj-wrapper background-color="#313131"
+                   padding-top="10px">
+         <mj-section>
+        <mj-column>
+          <mj-social font-size="15px" 
+                     icon-size="30px" 
+                     mode="horizontal" 
+                     padding="0" 
+                     align="center">
+            <mj-social-element name="facebook" 
+                               href="https://mjml.io/"
+                               background-color="#313131">
+            </mj-social-element>
+            
+            <mj-social-element 
+                               name="twitter" href="https://mjml.io/" background-color="#313131">
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/in/viktoriaageeva/" 
+                               background-color="#313131">
+            </mj-social-element>
+          </mj-social>
+       </mj-section>
+       </mj-column>
+       
+    
+       
+		<mj-section   
+                padding-top="0" 
+                padding-bottom="46px">
+			<mj-column>
+				<mj-text padding-top="0"
+                 font-family="Roboto" 
+                 font-size="10px" 
+                 font-weight="normal" 
+                 line-height="18px" 
+                 color="#7d7d7d" 
+                 align="center"
+                 padding-bottom="0">
+					All rights reserved. Copyright © 2019 Bookwarm
+				</mj-text>
+				<mj-text 
+                 font-family="Roboto" 
+                 font-size="10px"
+                 padding-top="10px" 
+                 font-weight="normal" 
+                 line-height="18px" 
+                 color="#7d7d7d" 
+                 align="center">
+					Your email address is on this list as a result of a subscription, information request, competition, or other correspondence you may have had with us in the past. If you would like to be removed from our list, check the email address this newsletter was sent to and use the following link: <a href="https://www.arturia.com/privacypolicy" style="text-decoration:none;color:#2DDCB4">Unsubscribe</a>. Privacy policy available <a href="https://www.arturia.com/privacypolicy" style="text-decoration:none;color:#2DDCB4">here</a>.
+				</mj-text>
+			</mj-column>
+		</mj-section>
+         
+         </mj-wrapper>
+	  
+</mj-body>
+</mjml>
+       
+    
+  </mj-body>
+</mjml>
